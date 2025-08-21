@@ -40,7 +40,6 @@ It uses **Spring Security**, **JWT filters**, and **CORS** to protect the APIs.
 ---
 
 
----
 
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1tqhH4ZVXCbhvZkLP4c_8IqIIQPCDxvBF" alt="Home Page" width="400"/>
