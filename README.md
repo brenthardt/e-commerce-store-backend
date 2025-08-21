@@ -1,5 +1,5 @@
 see project here: https://e-commerce-store-by-baxrom.netlify.app/
-
+see frontend here: https://github.com/brenthardt/e-commerce-store-frontend.git
 
 # E-Commerce Store Backend
 
