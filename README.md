@@ -1,5 +1,7 @@
-see project here: https://e-commerce-store-by-baxrom.netlify.app/
-see frontend here: https://github.com/brenthardt/e-commerce-store-frontend.git
+see project ui here: https://e-commerce-store-by-baxrom.netlify.app/ <br/>
+see frontend here: https://github.com/brenthardt/e-commerce-store-frontend.git <br/>
+see figma here : https://www.figma.com/design/xyT6B6th4ucBzsheOmXLyK/Full-E-Commerce-Website-UI-UX-Design--Community-?node-id=34-213&t=zch2BaIb6VoTTgxl-0 <br/>
+
 
 # E-Commerce Store Backend
 
